@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/04/20 13:20:11.000.970,=C:\Users\nena4\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/04/20 13:21:17.000.107,C:\Users\nena4\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\nena4\OneDrive\Desktop\Unit1.pas</Transaction>
+    <Transaction>2024/04/20 13:21:17.000.107,C:\Users\nena4\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\Users\nena4\OneDrive\Desktop\Unit1.fmx</Transaction>
+    <Transaction>2024/04/20 13:22:08.000.383,C:\Users\nena4\OneDrive\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\nena4\OneDrive\Desktop\AplikacijaZaModnuAgenciju.dproj</Transaction>
+    <Transaction>2024/04/20 13:40:16.456,=C:\Users\nena4\OneDrive\Documents\GitHub\Projektovanje-informacionih-sistema\AppZaModnuAgenciju\Unit2.pas</Transaction>
+    <Transaction>2024/04/20 14:19:08.013,=C:\Users\nena4\OneDrive\Documents\GitHub\Projektovanje-informacionih-sistema\AppZaModnuAgenciju\Unit3.pas</Transaction>
+    <Transaction>2024/04/20 14:27:14.415,=C:\Users\nena4\OneDrive\Documents\GitHub\Projektovanje-informacionih-sistema\AppZaModnuAgenciju\Unit4.pas</Transaction>
+    <Transaction>2024/04/20 14:30:22.061,=C:\Users\nena4\OneDrive\Documents\GitHub\Projektovanje-informacionih-sistema\AppZaModnuAgenciju\Unit5.pas</Transaction>
+    <Transaction>2024/04/20 14:33:19.583,=C:\Users\nena4\OneDrive\Documents\GitHub\Projektovanje-informacionih-sistema\AppZaModnuAgenciju\Unit6.pas</Transaction>
+    <Transaction>2024/04/20 14:51:53.140,=C:\Users\nena4\OneDrive\Documents\GitHub\Projektovanje-informacionih-sistema\AppZaModnuAgenciju\Unit7.pas</Transaction>
+    <Transaction>2024/04/20 14:54:40.067,=C:\Users\nena4\OneDrive\Documents\GitHub\Projektovanje-informacionih-sistema\AppZaModnuAgenciju\Unit8.pas</Transaction>
+    <Transaction>2024/04/20 15:59:53.801,C:\Users\nena4\OneDrive\Documents\GitHub\Projektovanje-informacionih-sistema\AppZaModnuAgenciju\ModnaAgencija.fmx=C:\Users\nena4\OneDrive\Documents\GitHub\Projektovanje-informacionih-sistema\AppZaModnuAgenciju\Unit6.fmx</Transaction>
+    <Transaction>2024/04/20 15:59:53.801,C:\Users\nena4\OneDrive\Documents\GitHub\Projektovanje-informacionih-sistema\AppZaModnuAgenciju\ModnaAgencija.pas=C:\Users\nena4\OneDrive\Documents\GitHub\Projektovanje-informacionih-sistema\AppZaModnuAgenciju\Unit6.pas</Transaction>
+  </Transactions>
+</BorlandProject>

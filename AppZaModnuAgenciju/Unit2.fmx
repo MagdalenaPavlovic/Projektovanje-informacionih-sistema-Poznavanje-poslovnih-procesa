@@ -1,0 +1,68 @@
+object Form2: TForm2
+  Left = 0
+  Top = 0
+  Caption = 'Form2'
+  ClientHeight = 480
+  ClientWidth = 640
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object Edit1: TEdit
+    Touch.InteractiveGestures = [LongTap, DoubleTap]
+    TabOrder = 2
+    Position.X = 48.000000000000000000
+    Position.Y = 104.000000000000000000
+    Size.Width = 193.000000000000000000
+    Size.Height = 49.000000000000000000
+    Size.PlatformDefault = False
+  end
+  object Edit2: TEdit
+    Touch.InteractiveGestures = [LongTap, DoubleTap]
+    TabOrder = 1
+    Position.X = 48.000000000000000000
+    Position.Y = 208.000000000000000000
+    Size.Width = 193.000000000000000000
+    Size.Height = 49.000000000000000000
+    Size.PlatformDefault = False
+  end
+  object Edit3: TEdit
+    Touch.InteractiveGestures = [LongTap, DoubleTap]
+    TabOrder = 0
+    Position.X = 48.000000000000000000
+    Position.Y = 304.000000000000000000
+    Size.Width = 193.000000000000000000
+    Size.Height = 49.000000000000000000
+    Size.PlatformDefault = False
+  end
+  object Button1: TButton
+    Position.X = 88.000000000000000000
+    Position.Y = 377.000000000000000000
+    Size.Width = 124.000000000000000000
+    Size.Height = 53.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 3
+    Text = 'Prijavi se'
+    object Label1: TLabel
+      Position.X = 24.000000000000000000
+      Position.Y = -298.000000000000000000
+      Text = 'Korisnicko ime'
+      TabOrder = 4
+    end
+  end
+  object Label2: TLabel
+    Position.X = 112.000000000000000000
+    Position.Y = 183.000000000000000000
+    Text = 'Lozinka'
+    TabOrder = 4
+  end
+  object Label3: TLabel
+    Position.X = 57.000000000000000000
+    Position.Y = 279.000000000000000000
+    Size.Width = 184.000000000000000000
+    Size.Height = 17.000000000000000000
+    Size.PlatformDefault = False
+    Text = 'Uneti *** za prijavu kao klijent'
+    TabOrder = 5
+  end
+end

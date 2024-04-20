@@ -1,0 +1,40 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 480
+  ClientWidth = 640
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object Button1: TButton
+    Position.X = 72.000000000000000000
+    Position.Y = 296.000000000000000000
+    Size.Width = 177.000000000000000000
+    Size.Height = 57.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 0
+    Text = 'Prijavi se'
+    object Button2: TButton
+      Position.X = 288.000000000000000000
+      Size.Width = 193.000000000000000000
+      Size.Height = 57.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 5
+      Text = 'Registruj se'
+      object Label1: TLabel
+        Position.X = -240.000000000000000000
+        Position.Y = -25.000000000000000000
+        Text = 'Ako posedujes nalog'
+        TabOrder = 5
+      end
+    end
+  end
+  object Label2: TLabel
+    Position.X = 400.000000000000000000
+    Position.Y = 271.000000000000000000
+    Text = 'Napravi nov nalog'
+    TabOrder = 1
+  end
+end

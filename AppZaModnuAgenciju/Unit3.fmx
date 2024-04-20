@@ -1,0 +1,137 @@
+object Form3: TForm3
+  Left = 0
+  Top = 0
+  Caption = 'Form3'
+  ClientHeight = 480
+  ClientWidth = 640
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object Edit1: TEdit
+    Touch.InteractiveGestures = [LongTap, DoubleTap]
+    TabOrder = 0
+    Position.X = 48.000000000000000000
+    Position.Y = 77.000000000000000000
+    Size.Width = 180.000000000000000000
+    Size.Height = 49.000000000000000000
+    Size.PlatformDefault = False
+    object Button1: TButton
+      Position.X = 192.000000000000000000
+      Position.Y = 336.000000000000000000
+      Size.Width = 129.000000000000000000
+      Size.Height = 46.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 0
+      Text = 'Registruj se'
+      object Label1: TLabel
+        Position.X = -136.000000000000000000
+        Position.Y = -361.000000000000000000
+        Text = 'Ime'
+        TabOrder = 5
+      end
+    end
+  end
+  object Edit5: TEdit
+    Touch.InteractiveGestures = [LongTap, DoubleTap]
+    TabOrder = 9
+    Position.X = 48.000000000000000000
+    Position.Y = 160.000000000000000000
+    Size.Width = 180.000000000000000000
+    Size.Height = 49.000000000000000000
+    Size.PlatformDefault = False
+  end
+  object Edit2: TEdit
+    Touch.InteractiveGestures = [LongTap, DoubleTap]
+    TabOrder = 8
+    Position.X = 48.000000000000000000
+    Position.Y = 248.000000000000000000
+    Size.Width = 180.000000000000000000
+    Size.Height = 49.000000000000000000
+    Size.PlatformDefault = False
+  end
+  object Edit3: TEdit
+    Touch.InteractiveGestures = [LongTap, DoubleTap]
+    TabOrder = 7
+    Position.X = 48.000000000000000000
+    Position.Y = 344.000000000000000000
+    Size.Width = 180.000000000000000000
+    Size.Height = 49.000000000000000000
+    Size.PlatformDefault = False
+  end
+  object Edit4: TEdit
+    Touch.InteractiveGestures = [LongTap, DoubleTap]
+    TabOrder = 6
+    Position.X = 384.000000000000000000
+    Position.Y = 77.000000000000000000
+    Size.Width = 180.000000000000000000
+    Size.Height = 49.000000000000000000
+    Size.PlatformDefault = False
+  end
+  object Edit6: TEdit
+    Touch.InteractiveGestures = [LongTap, DoubleTap]
+    TabOrder = 5
+    Position.X = 384.000000000000000000
+    Position.Y = 160.000000000000000000
+    Size.Width = 180.000000000000000000
+    Size.Height = 49.000000000000000000
+    Size.PlatformDefault = False
+  end
+  object Edit7: TEdit
+    Touch.InteractiveGestures = [LongTap, DoubleTap]
+    TabOrder = 4
+    Position.X = 384.000000000000000000
+    Position.Y = 248.000000000000000000
+    Size.Width = 180.000000000000000000
+    Size.Height = 49.000000000000000000
+    Size.PlatformDefault = False
+  end
+  object Edit8: TEdit
+    Touch.InteractiveGestures = [LongTap, DoubleTap]
+    TabOrder = 3
+    Position.X = 384.000000000000000000
+    Position.Y = 344.000000000000000000
+    Size.Width = 180.000000000000000000
+    Size.Height = 49.000000000000000000
+    Size.PlatformDefault = False
+  end
+  object Label2: TLabel
+    Position.X = 104.000000000000000000
+    Position.Y = 135.000000000000000000
+    Text = 'Prezime'
+    TabOrder = 10
+    object Label3: TLabel
+      Position.Y = 88.000000000000000000
+      Text = 'Datum rodjenja'
+      TabOrder = 4
+      object Label4: TLabel
+        Position.Y = 96.000000000000000000
+        Text = 'Sifra kategorija'
+        TabOrder = 4
+        object Label5: TLabel
+          Position.X = 336.000000000000000000
+          Position.Y = -267.000000000000000000
+          Text = 'Korisnicko ime'
+          TabOrder = 4
+          object Label6: TLabel
+            Position.Y = 83.000000000000000000
+            Text = 'Lozinka'
+            TabOrder = 4
+            object Label7: TLabel
+              Position.X = 16.000000000000000000
+              Position.Y = 88.000000000000000000
+              Text = 'Pol'
+              TabOrder = 4
+              object Label8: TLabel
+                Position.X = 8.000000000000000000
+                Position.Y = 96.000000000000000000
+                Text = 'Kontakt'
+                TabOrder = 4
+              end
+            end
+          end
+        end
+      end
+    end
+  end
+end

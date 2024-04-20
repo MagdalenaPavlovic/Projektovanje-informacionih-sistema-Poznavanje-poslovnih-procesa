@@ -1,0 +1,52 @@
+object Form6: TForm6
+  Left = 0
+  Top = 0
+  Caption = 'Form6'
+  ClientHeight = 480
+  ClientWidth = 640
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object Button1: TButton
+    Position.X = 312.000000000000000000
+    Position.Y = 381.000000000000000000
+    Size.Width = 129.000000000000000000
+    Size.Height = 49.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 0
+    Text = 'Izaberi modela'
+  end
+  object Button2: TButton
+    Position.X = 80.000000000000000000
+    Position.Y = 381.000000000000000000
+    Size.Width = 176.000000000000000000
+    Size.Height = 49.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 1
+    Text = 'Povratak na prethodnu stranu'
+    object Label1: TLabel
+      Position.X = 144.000000000000000000
+      Position.Y = -152.000000000000000000
+      Size.Width = 121.000000000000000000
+      Size.Height = 33.000000000000000000
+      Size.PlatformDefault = False
+      Text = 'Informacije o modelu'
+      TabOrder = 5
+      object ImageControl1: TImageControl
+        Position.X = -56.000000000000000000
+        Position.Y = -161.000000000000000000
+        Size.Width = 220.000000000000000000
+        Size.Height = 153.000000000000000000
+        Size.PlatformDefault = False
+        TabOrder = 4
+        object Button3: TButton
+          Position.X = 32.000000000000000000
+          Position.Y = 240.000000000000000000
+          TabOrder = 71
+          Text = 'Albumi'
+        end
+      end
+    end
+  end
+end
