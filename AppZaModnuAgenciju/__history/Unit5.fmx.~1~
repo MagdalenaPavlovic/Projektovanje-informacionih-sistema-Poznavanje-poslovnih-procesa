@@ -10,7 +10,7 @@ object Form5: TForm5
   DesignerMasterStyle = 0
   object CheckBox1: TCheckBox
     Position.X = 104.000000000000000000
-    Position.Y = 40.000000000000000000
+    Position.Y = 88.000000000000000000
     Size.Width = 177.000000000000000000
     Size.Height = 51.000000000000000000
     Size.PlatformDefault = False
@@ -19,7 +19,7 @@ object Form5: TForm5
   end
   object CheckBox2: TCheckBox
     Position.X = 400.000000000000000000
-    Position.Y = 199.000000000000000000
+    Position.Y = 271.000000000000000000
     Size.Width = 177.000000000000000000
     Size.Height = 51.000000000000000000
     Size.PlatformDefault = False
@@ -27,7 +27,7 @@ object Form5: TForm5
     Text = 'Model br.4'
     object Button1: TButton
       Position.X = -168.000000000000000000
-      Position.Y = 176.000000000000000000
+      Position.Y = -16.000000000000000000
       Size.Width = 128.000000000000000000
       Size.Height = 57.000000000000000000
       Size.PlatformDefault = False
@@ -35,8 +35,8 @@ object Form5: TForm5
       Text = 'Pregled'
     end
     object ImageControl1: TImageControl
-      Position.X = -296.000000000000000000
-      Position.Y = -108.000000000000000000
+      Position.X = -304.000000000000000000
+      Position.Y = -140.000000000000000000
       TabOrder = 20
     end
     object ImageControl5: TImageControl
@@ -46,7 +46,7 @@ object Form5: TForm5
   end
   object CheckBox3: TCheckBox
     Position.X = 96.000000000000000000
-    Position.Y = 199.000000000000000000
+    Position.Y = 256.000000000000000000
     Size.Width = 177.000000000000000000
     Size.Height = 51.000000000000000000
     Size.PlatformDefault = False
@@ -55,7 +55,7 @@ object Form5: TForm5
   end
   object CheckBox4: TCheckBox
     Position.X = 400.000000000000000000
-    Position.Y = 40.000000000000000000
+    Position.Y = 88.000000000000000000
     Size.Width = 177.000000000000000000
     Size.Height = 51.000000000000000000
     Size.PlatformDefault = False
@@ -69,11 +69,11 @@ object Form5: TForm5
   end
   object ImageControl3: TImageControl
     Position.X = 400.000000000000000000
-    Position.Y = 83.000000000000000000
+    Position.Y = 131.000000000000000000
     TabOrder = 20
     object ImageControl4: TImageControl
       Position.X = -304.000000000000000000
-      Position.Y = 167.000000000000000000
+      Position.Y = 184.000000000000000000
       TabOrder = 71
     end
   end

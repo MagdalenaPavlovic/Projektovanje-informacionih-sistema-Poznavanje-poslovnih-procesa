@@ -22,26 +22,26 @@ object Form7: TForm7
       Size.Width = 129.000000000000000000
       Size.Height = 124.000000000000000000
       Size.PlatformDefault = False
-      TabOrder = 3
+      TabOrder = 4
       object ImageControl2: TImageControl
         Position.X = 184.000000000000000000
         Size.Width = 121.000000000000000000
         Size.Height = 121.000000000000000000
         Size.PlatformDefault = False
-        TabOrder = 70
+        TabOrder = 71
         object ImageControl3: TImageControl
           Position.X = 168.000000000000000000
           Size.Width = 121.000000000000000000
           Size.Height = 116.000000000000000000
           Size.PlatformDefault = False
-          TabOrder = 70
+          TabOrder = 71
         end
       end
     end
   end
   object Button1: TButton
-    Position.X = 240.000000000000000000
-    Position.Y = 360.000000000000000000
+    Position.X = 256.000000000000000000
+    Position.Y = 376.000000000000000000
     Size.Width = 113.000000000000000000
     Size.Height = 57.000000000000000000
     Size.PlatformDefault = False

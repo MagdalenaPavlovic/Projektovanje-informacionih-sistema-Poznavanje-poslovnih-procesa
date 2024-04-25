@@ -28,7 +28,7 @@ object Form3: TForm3
         Position.X = -136.000000000000000000
         Position.Y = -361.000000000000000000
         Text = 'Ime'
-        TabOrder = 4
+        TabOrder = 5
       end
     end
   end
@@ -103,29 +103,30 @@ object Form3: TForm3
     object Label3: TLabel
       Position.Y = 88.000000000000000000
       Text = 'Datum rodjenja'
-      TabOrder = 3
+      TabOrder = 4
       object Label4: TLabel
         Position.Y = 96.000000000000000000
         Text = 'Sifra kategorija'
-        TabOrder = 3
+        TabOrder = 4
         object Label5: TLabel
           Position.X = 336.000000000000000000
           Position.Y = -267.000000000000000000
           Text = 'Korisnicko ime'
-          TabOrder = 3
+          TabOrder = 4
           object Label6: TLabel
             Position.Y = 83.000000000000000000
             Text = 'Lozinka'
-            TabOrder = 3
+            TabOrder = 4
             object Label7: TLabel
               Position.X = 16.000000000000000000
               Position.Y = 88.000000000000000000
               Text = 'Pol'
-              TabOrder = 3
+              TabOrder = 4
               object Label8: TLabel
+                Position.X = 8.000000000000000000
                 Position.Y = 96.000000000000000000
                 Text = 'Kontakt'
-                TabOrder = 3
+                TabOrder = 4
               end
             end
           end
